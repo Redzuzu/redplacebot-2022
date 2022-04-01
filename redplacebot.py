@@ -167,4 +167,4 @@ def main(username,password):
 
 
 if __name__ =="__main__":
-    main("OppAICreator",'Yv9JMbK27UJARN7')
+    main("OppAICreator",'')
